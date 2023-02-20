@@ -578,6 +578,7 @@ FodyWeavers.xsd
 # JetBrains Rider
 
 ### VisualStudio Patch ###
-# Additional files built by Visual Studio
+# Additional files built by Visual Studio Visual Studio
 
 # End of https://www.toptal.com/developers/gitignore/api/visualstudio,csharp
+
